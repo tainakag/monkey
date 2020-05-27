@@ -22,6 +22,6 @@ go test ./lexer
 
 # Author
 
-- 3x8tacorice
+- tainakag
 
 # License
